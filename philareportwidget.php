@@ -11,7 +11,7 @@ class PhilaReportWidget extends WP_Widget {
           function PhilaReportWidget() {
                     $widget_ops = array(
                     'classname' => 'PhilaReportWidget',
-                    'description' => 'Phila Report Widget'
+                    'description' => 'Phila Report Widget.'
           );
 
           $this->WP_Widget(
