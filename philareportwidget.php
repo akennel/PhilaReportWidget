@@ -13,7 +13,6 @@ $message = <<<EOM
 
 <div id="PhilaReportWidget" class="PhilaWidget">
 	<span id="PhilaReportMainWindow">
-		<h1 class="PhilaWidgetTitle">Talk to your City</h1>	
 		 <a href="http://www.phila.gov/ig/Pages/ReportWrongdoing.aspx">Report Fraud/Corruption</a>
 		 <br>
 		 <a href="http://phillypolice.com/forms/submit-a-tip">Submit a Police Tip</a>
